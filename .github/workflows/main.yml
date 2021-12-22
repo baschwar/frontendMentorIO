@@ -14,5 +14,5 @@ jobs:
         server: ftp.baschwar.com
         port: 21
         username: baschwar
-        path: /www/frontendmentor
+        path: /www/frontendmentor/
         password: ${{ secrets.FTP_PASSWORD }}
